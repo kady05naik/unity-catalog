@@ -19,3 +19,7 @@
 02.Extract Customers Data - JSON.ipynb
 03.Extract Orders Data - Complex JSON.ipynb
 06. Extract Payments Data - CSV via External Table.ipynb
+09. Transform Customer Data.ipynb
+07. Extract Data using python.ipynb
+05. Extract Address Data - CSV via read_files Function.ipynb
+04.Extract Data from Memberships- Images.ipynb
